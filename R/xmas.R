@@ -1,0 +1,14 @@
+# Generated from create-xmasgifts.Rmd: do not edit by hand
+
+#' A data set containing the description of each gift in the song
+#' 
+#' @format A data frame with 12 rows and 6 variables:
+#' \describe{
+#' \item{Day}{the day in the song written as a number}
+#' \item{Day.in.Words}{the day in the song written in words}
+#' \item{Gift.Item}{the gift item}
+#' \item{Verb}{the verb action taken by the gift item}
+#' \item{Adjective}{the adjective describing the gift item}
+#' \item{Location}{the location of the gift item}
+#' @source This data was provided in Cal Poly Stat 331
+"xmas"
